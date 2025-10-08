@@ -1,16 +1,29 @@
-# React + Vite
+# App name
+HERO.IO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
 
-Currently, two official plugins are available:
+HERO.IO is a modern web platform showcasing a collection of productive  applications developed by Me. Users can browse trending apps, view detailed app information including ratings, reviews, downloads, and install/uninstall apps directly from the website. It features search, sorting, and responsive design to provide a seamless user experience across devices. HERO.IO aims to simplify discovering, exploring, and managing apps with an intuitive and visually appealing interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+#Technologies
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend: React.js
 
-## Expanding the ESLint configuration
+Routing: React Router v6 (createBrowserRouter)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling: Tailwind CSS, DaisyUI
+
+State Management & Hooks: React Hooks (useState, useEffect)
+
+HTTP Requests: Axios
+
+Notifications: React-Toastify
+
+Charts & Data Visualization: Recharts (BarChart for ratings)
+
+Storage: LocalStorage (for installed apps)
+
+Build Tool: Vite
+
+Icons & UI Assets: Font Awesome, Custom Images, react icon
