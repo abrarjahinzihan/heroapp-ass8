@@ -6,7 +6,7 @@ HERO.IO
 HERO.IO is a modern web platform showcasing a collection of productive  applications developed by Me. Users can browse trending apps, view detailed app information including ratings, reviews, downloads, and install/uninstall apps directly from the website. It features search, sorting, and responsive design to provide a seamless user experience across devices. HERO.IO aims to simplify discovering, exploring, and managing apps with an intuitive and visually appealing interface.
 
 
-#Technologies
+# Technologies
 
 Frontend: React.js
 
